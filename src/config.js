@@ -7,7 +7,7 @@ import pj3 from './assets/images/pj3.png'
 export const config = {
   name: 'Isaac Olatimehin',
   initials: 'IO',
-  cvPath: '/cv/lone-wolf-cv.pdf',
+  cvPath: '/cv/IsaacOlatimehin-Resume.pdf',
   email: 'isaacolatimehin@gmail.com',
   linkedin: 'https://www.linkedin.com/in/isaac-olatimehin-b23427260',
   github: 'https://github.com/HiiDev01',

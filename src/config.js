@@ -78,7 +78,7 @@ export const config = {
     { label: 'Email', icon: 'mail', url: 'mailto:isaacolatimehin@gmail.com' },
   ],
   allProjectsUrl: 'https://github.com/HiiDev01',
-  resumeUrl: '/cv/lone-wolf-cv.pdf',
+  resumeUrl: '/cv/IsaacOlatimehin-Resume.pdf',
   experience: [
     { role: 'Full Stack Developer', org: 'Freelance', period: '2022 – Present', text: 'Built and maintained web applications, implemented frontend interfaces, developed backend services, and integrated APIs and databases.' },
     { role: 'Frontend Developer', org: 'HNG Tech', period: '2024', text: 'Developed responsive web interfaces, collaborated with designers and developers, and contributed to frontend development tasks.' },
